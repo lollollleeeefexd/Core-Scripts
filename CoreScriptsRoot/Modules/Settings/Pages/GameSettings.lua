@@ -1,6 +1,6 @@
 --[[
 		Filename: GameSettings.lua
-		Written by: jeditkacheff
+		Written by: WonderWolfy
 		Version 1.1
 		Description: Takes care of the Game Settings Tab in Settings Menu
 --]]
